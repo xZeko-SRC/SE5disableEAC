@@ -18,3 +18,4 @@ When in task manager if you see Easy Anti-Cheat then you know its running.</br><
 Another way is to check services. Hit the windows button and search for services.</br>
 If Easy Anti-Cheat is installed you can disable it from here.</br>
 <img src="https://raw.githubusercontent.com/xZeko-SRC/SE5disableEAC/main/services%20show.png"></br>
+Thanks to Seckon for helping!
