@@ -17,3 +17,4 @@ Uncheck Play with Easy Anti-Cheat or Uninstall it to be sure its fully disabled.
 ![alt text](https://raw.githubusercontent.com/xZeko-SRC/SE5disableEAC/main/Options%20Show.png)</br>
 Click Ok to close the window.</br>
 Then click Play.
+<img src="https://raw.githubusercontent.com/xZeko-SRC/SE5disableEAC/main/taskmanager%20show.png">
