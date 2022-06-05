@@ -1,6 +1,6 @@
 # Sniper Elite 5 Speedrunning - How to disable Easy Anti-Cheat
 <h2>Click here to learn about Easy Anti-Cheat</h2></br>
-[https://www.howtogeek.com/358756/what-is-easyanticheat.exe-and-why-is-it-on-my-computer/](https://www.howtogeek.com/358756/what-is-easyanticheat.exe-and-why-is-it-on-my-computer/)</br></br>
+(https://www.howtogeek.com/358756/what-is-easyanticheat.exe-and-why-is-it-on-my-computer/)</br></br>
 <h2>See if Easy Anti-Cheat is running</h2>
 The way to see if its running is to look in the task manager</br>
 Hold left control, left shift and push Escape keys together</br>
