@@ -1,7 +1,13 @@
 # Sniper Elite 5 Speedrunning - How to disable Easy Anti-Cheat
-<h2>Click here to learn about Easy Anti-Cheat</br>
+<h2>Click here to learn about Easy Anti-Cheat</h2></br>
 [https://www.howtogeek.com/358756/what-is-easyanticheat.exe-and-why-is-it-on-my-computer/](https://www.howtogeek.com/358756/what-is-easyanticheat.exe-and-why-is-it-on-my-computer/)</br></br>
-
+<h2>See if Easy Anti-Cheat is running</h2>
+The way to see if its running is to look in the task manager</br>
+Hold left control, left shift and push Escape keys together</br>
+When in task manager if you see Easy Anti-Cheat then you know its running.</br></br>
+Another way is to check services. Hit the windows button and search for services.</br>
+If Easy Anti-Cheat is installed you can disable it from here.</br>
+<h2> Disable Easy Anti-Cheat for SE5</h2>
 This is to how to Disable Easy AntiCheat. (Will not work for Co-op as you have to be online)<br/><br/>
 When starting Sniper Elite 5, the launcher will appear.<br/>
 Click the cog Icon next to Play<br/>
