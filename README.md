@@ -1,4 +1,6 @@
 # Sniper Elite 5 Speedrunning - How to disable Easy Anti-Cheat
+Click here to learn about Easy Anti-Cheat</br>
+https://speedrun-timer.itsmeme11.repl.co/
 This is to how to Disable Easy AntiCheat. (Will not work for Co-op as you have to be online)<br/><br/>
 When starting Sniper Elite 5, the launcher will appear.<br/>
 Click the cog Icon next to Play<br/>
