@@ -6,6 +6,7 @@ The way to see if its running is to look in the task manager</br>
 Hold left control, left shift and push Escape keys together</br>
 When in task manager if you see Easy Anti-Cheat then you know its running.</br></br>
 ![alt text](https://raw.githubusercontent.com/xZeko-SRC/SE5disableEAC/main/taskmanager%20show.png)</br>
+![Screenshot](taskmanager show.png)
 Another way is to check services. Hit the windows button and search for services.</br>
 If Easy Anti-Cheat is installed you can disable it from here.</br>
 <h2> Disable Easy Anti-Cheat for SE5</h2>
