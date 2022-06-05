@@ -1,4 +1,4 @@
-# SE5 Disable EAC
+# Sniper Elite 5 Speedrunning - How to disable Easy Anti-Cheat
 This is to how to Disable Easy AntiCheat. (Will not work for Co-op as you have to be online)<br/><br/>
 When starting Sniper Elite 5, the launcher will appear.<br/>
 Click the cog Icon next to Play<br/>
